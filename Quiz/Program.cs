@@ -1,7 +1,7 @@
 ﻿namespace Quiz
 {
     internal class Program
-    {
+    {//5
         static void Main()
         {
             Quiz.GenerateSampleQuestions(); // базовые вопросы
